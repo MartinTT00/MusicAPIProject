@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

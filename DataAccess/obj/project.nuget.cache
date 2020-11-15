@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IYN5N9xwwvrm+3rZc92X2H3zYRQ0Gb/phj+qGwavQKydqiB5aXgRiGilF70J4FyeE+Uytu6MNhfyQuc6BuiI6Q==",
+  "dgSpecHash": "DJPGvo4CZe4yGmJ4Ew3DGnnYMnH3mETRh9gpv0kqeBYuUc5T9f69ZjRSP8WSXf9GmD1qL4n3yDCxiyAxGINvGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

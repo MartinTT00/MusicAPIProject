@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\MusicAPIProject\\MusicAPIProject.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\MusicAPIProject\\MusicAPIProject.csproj",
       "projectName": "MusicAPIProject",
-      "projectPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\MusicAPIProject\\MusicAPIProject.csproj",
+      "projectPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\MusicAPIProject\\MusicAPIProject.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\MusicAPIProject\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\MusicAPIProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

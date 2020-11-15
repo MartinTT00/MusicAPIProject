@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataStructure\\DataStructure.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataStructure\\DataStructure.csproj",
       "projectName": "DataStructure",
-      "projectPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataStructure\\DataStructure.csproj",
+      "projectPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataStructure\\DataStructure.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\source\\repos\\MusicAPIProject\\DataStructure\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Documents\\GitHub\\MusicAPIProject\\DataStructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
