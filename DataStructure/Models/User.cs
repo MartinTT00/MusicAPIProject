@@ -16,8 +16,8 @@ namespace DataStructure.Models
         [StringLength(30, MinimumLength = 6)]
         public string Password { get; set; }
 
-        public List<Favourites> Favourites { get; set; }
+        public List<Favourite> Favourites { get; set; }
         public string StyleId { get; set; }
-        public List<PlayLists> PlayLists { get; set; }
+        public List<PlayList> PlayLists { get; set; }
     }
 }

@@ -4,10 +4,10 @@ using System.Text;
 
 namespace DataStructure.Models
 {
-    public class Favourites : BaseModel
+    public class Mix : BaseModel
     {
-        public List<Style> Styles { get; set; }
+        public string MixName { get; set; }
         public List<Performer> Performers { get; set; }
-        public User User { get; set; }
+
     }
 }

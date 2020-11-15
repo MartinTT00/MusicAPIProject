@@ -1,15 +1,13 @@
 ﻿using DataStructure.Abstractions;
-using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DataStructure.Models
 {
-    public class PlayLists : BaseModel
+    public class Favourite : BaseModel
     {
-        public string PlayListName { get; set; }
+        public List<Style> Styles { get; set; }
+        public List<Performer> Performers { get; set; }
         public User User { get; set; }
-        public List<Songs> Songs { get; set; }
-
     }
 }

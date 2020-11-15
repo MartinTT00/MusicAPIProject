@@ -6,13 +6,13 @@ using System.Text;
 
 namespace DataStructure.Models
 {
-    public class Songs : BaseModel
+    public class Song : BaseModel
     {
         [Required]
         [StringLength(30, MinimumLength = 3)]
         public string SongName { get; set; }
-        public int SongsId { get; set; }
-        public List<Performer> Performers { get; set; }
-        public List<PlayLists> PlayLists { get; set; }
+        public int SongId { get; set; }
+        public List<PerformerSong> PerformersSongs { get; set; }
+        public List<PlayList> PlayLists { get; set; }
     }
 }

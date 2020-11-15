@@ -18,9 +18,9 @@ namespace DataStructure.Models
         public string Sex { get; set; }
         [Required]
         public Style Style { get; set; }
-        public Favourites Favourites { get; set; }
-        public List<Songs> Songs { get; set; }
+        public Favourite Favourites { get; set; }
+        public List<PerformerSong> PerformersSongs { get; set; }
         public List<BeatMaker> Beater { get; set; }
-        public List<Mixes> Mixes { get; set; }
+        public List<Mix> Mixes { get; set; }
     }
 }
